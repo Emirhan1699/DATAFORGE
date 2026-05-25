@@ -3,7 +3,7 @@ XGBoost ve Optuna kullanılarak sentetik tarım verisi üzerinde geliştirilmiş
 
 # Tarımsal Üretim Tahmin Modeli (Crop Production Prediction)
 
-Bu proje, bir veri bilimi yarışması kapsamında özel olarak oluşturulmuş **sentetik (yapay) bir tarım veri seti** kullanılarak tarımsal üretim miktarını (Production) tahmin etmek amacıyla geliştirilmiş bir makine öğrenmesi modelidir. Sentetik veri setleri üzerinde çalışmak, modelin ezberleme (overfitting) yapmasını zorlaştırdığı için veri ön işleme, özellik mühendisliği (feature engineering) ve optimizasyon becerilerini ön plana çıkarmayı gerektirir.
+Bu proje, Dataforge yarışması kapsamında özel olarak oluşturulmuş **sentetik (yapay) bir tarım veri seti** kullanılarak tarımsal üretim miktarını (Production) tahmin etmek amacıyla geliştirilmiş bir makine öğrenmesi modelidir. Sentetik veri setleri üzerinde çalışmak, modelin ezberleme (overfitting) yapmasını zorlaştırdığı için veri ön işleme, özellik mühendisliği (feature engineering) ve optimizasyon becerilerini ön plana çıkarmayı gerektirir.
 
 ## Proje Adımları ve Kullanılan Teknikler
 
