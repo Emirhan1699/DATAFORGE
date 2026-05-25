@@ -26,7 +26,7 @@ Bu proje, Dataforge yarışması kapsamında özel olarak oluşturulmuş **sente
   * Her bir fold için Train ve Validation MSE/RMSE metrikleri hesaplanarak tutarlılık raporlanmıştır.
 
 ## 🛠️ Kullanılan Teknolojiler ve Kütüphaneler
-* Python 3.x
+* Python 3.14.2
 * Pandas & NumPy
 * Scikit-Learn (KFold, mean_squared_error)
 * XGBoost
