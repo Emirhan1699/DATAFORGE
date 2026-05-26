@@ -30,7 +30,7 @@ Bu proje, Dataforge yarışması kapsamında özel olarak oluşturulmuş senteti
 * **Aşırı Öğrenme (Overfitting):** Mevcut ön işleme ve Optuna hiperparametre optimizasyonu adımlarına rağmen, sentetik veri setindeki karmaşık veya ezberlemeye müsait yapılar nedeniyle modelde **overfitting (aşırı öğrenme)** gözlemlenmektedir. Eğitim (Train) ve Doğrulama (Test/Validation) MAE skorları arasında belirgin bir fark bulunmaktadır. İlerleyen aşamalarda L1/L2 (alpha/lambda) düzenlileştirme (regularization) değerlerinin artırılması, veri sayısının çoğaltılması veya daha katı ağaç derinliği limitleri uygulanarak bu durumun hafifletilmesi hedeflenmektedir.
 
 ### 🛠️ Kullanılan Teknolojiler ve Kütüphaneler
-* **Dil:** Python
+* **Dil:** Python 3.14
 * **Veri İşleme:** Pandas, NumPy
 * **Makine Öğrenmesi & Doğrulama:** Scikit-Learn (`KFold`, `train_test_split`, `mean_absolute_error`)
 * **Algoritma:** XGBoost (`XGBRegressor`)
